@@ -1,15 +1,23 @@
 .sidebar {
-  margin: 20px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border: 30px solid green;
   padding: 10px;
-  width: 20%;
+  width: 50%;
   color: red;
   background-color: lavender;
+  display: block;
+  box-sizing: border-box;
 }
 
 img {
-  float: right;
+  margin: auto;
+  width: 50%;
+  height: auto;
   border: 10px solid black;
   background-color: blue;
   padding: 5px;
+  display: block;
 }
+
