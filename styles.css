@@ -9,4 +9,7 @@
 
 img {
   float: right;
+  border: 10px solid black;
+  background-color: blue;
+  padding: 5px;
 }
